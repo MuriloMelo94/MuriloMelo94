@@ -1,4 +1,4 @@
-### Hi, I am Murilo Melo! Good to see you here :)
+### Hi, this is Murilo Melo! Good to see you here :)
 
 
 - 🔭 I’m currently working on personal projects
