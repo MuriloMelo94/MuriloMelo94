@@ -1,7 +1,7 @@
 ### Hi, this is Murilo Melo! Good to see you here :)
 
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently studying backend development by myself
 - 🌱 Learning JAVA, JavaScript and Kotlin 
 - 😄 Pronouns: 🇬🇧 he/him  🇧🇷 ele/dele  🇫🇷 il/lui
 - ⚡ Fun fact: I love pudding 🍮
