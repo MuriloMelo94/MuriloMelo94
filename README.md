@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying backend development by myself
-- 🌱 Learning JAVA, JavaScript and Kotlin 
+- 🌱 Learning PHP 
 - 😄 Pronouns: 🇬🇧 he/him  🇧🇷 ele/dele  🇫🇷 il/lui
 - ⚡ Fun fact: I love pudding 🍮
 
