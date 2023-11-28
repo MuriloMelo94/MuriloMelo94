@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a backend developer
-- 🌱 My mainly stacks includes PHP and Laravel
+- 🌱 My main stacks includes PHP and Laravel
 - 😄 Pronouns: 🇬🇧 he/him  🇧🇷 ele/dele  🇫🇷 il/lui
 - ⚡ Fun fact: I love pudding 🍮
 
