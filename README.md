@@ -1,8 +1,8 @@
 ### Hi, this is Murilo Melo! Good to see you here :)
 
 
-- 🔭 I’m currently studying backend development
-- 🌱 Learning PHP and Laravel
+- 🔭 I’m a backend developmer
+- 🌱 My mainly stacks includes PHP and Laravel
 - 😄 Pronouns: 🇬🇧 he/him  🇧🇷 ele/dele  🇫🇷 il/lui
 - ⚡ Fun fact: I love pudding 🍮
 
