@@ -5,7 +5,7 @@
     <td style="border: none;" width="60%">
       <p>### Hi, this is Murilo Melo! Good to see you here :)</p>
       <p>- 🔭 I’m a backend developer</p>
-      <p>- 🌱 My main stacks includes PHP and Laravel</p>
+      <p>- 🌱 My main stacks includes JAVA and PHP</p>
       <p>- 😄 Pronouns: he/him  ele/dele  il/lui</p>
       <p>- ⚡ Fun fact: I love pudding 🍮</p>
     </td>
@@ -20,14 +20,12 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Murilo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Murilo-PHP" height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Murilo-Laravel" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Murilo-Mysql" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Murilo-Docker" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-  <img align="center" alt="Murilo-React" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Murilo-Redux" height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
-</div>
+  <img align="center" alt="Murilo-Java" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Murilo-Spring" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
 
 ##
 
