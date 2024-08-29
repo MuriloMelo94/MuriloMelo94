@@ -5,13 +5,14 @@
     <td style="border: none;" width="60%">
       <p>### Hi, this is Murilo Melo! Good to see you here :)</p>
       <p>- 🔭 I’m a backend developer</p>
-      <p>- 🌱 My main stacks includes JAVA and SpringBoot</p>
+      <p>- 🌱 My Stack: Laravel, React, Typescript and NextJs</p>
       <p>- 😄 Pronouns: he/him  ele/dele  il/lui</p>
       <p>- ⚡ Fun fact: I love pudding 🍮</p>
+      <p>- 📚 Plus: Redux, Docker, TailwindCss, Livewire and AlpineJs</p>
     </td>
     <td style="border: none;" width="40%" align="center">
       <a href="https://github.com/MuriloMelo94">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomelo94&layout=compact&langs_count=6&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomelo94&layout=compact&langs_count=8&theme=tokyonight"/>
       </a>
     </td>
   </tr>
@@ -20,10 +21,14 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Murilo-Java" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Murilo-Spring" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Murilo-PHP" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+  <img align="center" alt="Murilo-Laravel" height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Murilo-Mysql" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Murilo-Docker" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+  <img align="center" alt="Murilo-Typescript" height="55" width="85" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Murilo-React" height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  <img align="center" alt="Murilo-Redux" height="55" width="85" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
+  <img align="center" alt="Murilo-NextJS" height="55" width="85" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
 
 ##
 
