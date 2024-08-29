@@ -4,7 +4,7 @@
   <tr>
     <td style="border: none;" width="60%">
       <p>### Hi, this is Murilo Melo! Good to see you here :)</p>
-      <p>- 🔭 I’m a backend developer</p>
+      <p>- 🔭 I’m a FullStack Developer</p>
       <p>- 🌱 My Stack: Laravel, React, Typescript and NextJs</p>
       <p>- 😄 Pronouns: he/him  ele/dele  il/lui</p>
       <p>- ⚡ Fun fact: I love pudding 🍮</p>
