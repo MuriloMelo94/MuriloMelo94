@@ -4,11 +4,11 @@
   <tr>
     <td style="border: none;" width="60%">
       <p>### Hi, this is Murilo Melo! Good to see you here :)</p>
-      <p>- 🔭 I’m a FullStack Developer</p>
-      <p>- 🌱 My Stack: Laravel, React, Typescript and NextJs</p>
+      <p>- 🔭 I’m a Backend Developer</p>
+      <p>- 🌱 My Stack: PHP and Laravel</p>
       <p>- 😄 Pronouns: he/him  ele/dele  il/lui</p>
       <p>- ⚡ Fun fact: I love pudding 🍮</p>
-      <p>- 📚 Plus: Redux, Docker, TailwindCss, Livewire and AlpineJs</p>
+      <p>- 📚 Plus: Docker, Design Pattern</p>
     </td>
     <td style="border: none;" width="40%" align="center">
       <a href="https://github.com/MuriloMelo94">
