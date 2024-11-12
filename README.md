@@ -25,10 +25,8 @@
   <img align="center" alt="Murilo-Laravel" height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Murilo-Mysql" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Murilo-Docker" height="80" width="110" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-  <img align="center" alt="Murilo-Typescript" height="55" width="85" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Murilo-React" height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img align="center" alt="Murilo-Redux" height="55" width="85" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
-  <img align="center" alt="Murilo-NextJS" height="55" width="85" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Murilo-PostgreSQL" height="55" width="85" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Murilo-Kotlin" height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
 
 ##
 
