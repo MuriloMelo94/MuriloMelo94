@@ -10,7 +10,7 @@
       <p>- 🌱 My Stack: PHP and Laravel</p>
       <p>- 😄 Pronouns: he/him  ele/dele  il/lui</p>
       <p>- ⚡ Fun fact: I love pudding 🍮</p>
-      <p>- 📚 Plus: Docker, Design Pattern</p>
+      <p>- 📚 Plus: Docker, Design Pattern, studying Kotlin</p>
     </td>
     <td style="border: none;" width="40%" align="center">
       <a href="https://github.com/MuriloMelo94">
