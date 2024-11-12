@@ -5,7 +5,7 @@
     <td style="border: none;" width="60%">
       <p>### Hi, this is Murilo Melo! Good to see you here :)</p>
       <p>- 🔭 I’m a Backend Developer</p>
-      <p>- ✨ Professional Certificate by Harvard in CS50 (Computer Science Introduction)</p>
+      <p>- ✨ Professional Certificate in CS by Harvard CS50</p>
       <p>- ✨ Degree certificate in Information Technology by UFMS (Brazil)</p>
       <p>- 🌱 My Stack: PHP and Laravel</p>
       <p>- 😄 Pronouns: he/him  ele/dele  il/lui</p>
