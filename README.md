@@ -3,7 +3,7 @@
   <table style="border: none;">
   <tr>
     <td style="border: none;" width="60%">
-      <p>### Hi, this is Murilo Melo! Good to see you here :)</p>
+      <p> Hi, this is Murilo Melo! Good to see you here :) </p>
       <p>- 🔭 I’m a Backend Developer</p>
       <p>- ✨ Professional Certificate in CS by Harvard CS50</p>
       <p>- 📜 Degree in Information Technology by UFMS (Brazil)</p>
