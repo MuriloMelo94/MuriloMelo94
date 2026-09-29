@@ -13,8 +13,8 @@
       <p>- 📚 Plus: Docker, Design Pattern, studying Kotlin</p>
     </td>
     <td style="border: none;" width="40%" align="center">
-      <a href="https://github.com/MuriloMelo94">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomelo94&layout=compact&langs_count=8&theme=tokyonight"/>
+      <a href="[https://github.com/MuriloMelo94](https://www.murilomelo.dev/)">
+        <img height="180em" src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=murilomelo94&layout=compact&langs_count=8&theme=tokyonight](https://www.murilomelo.dev/fotos/murilo.png)](https://www.murilomelo.dev/certificacoes/aws-cloud-practitioner.png)"/>
       </a>
     </td>
   </tr>
@@ -33,7 +33,7 @@
 ##
 
 <div align="center">
-  <a href="https://www.instagram.com/mu.rilomelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/murilomelo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:murilomelo94@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="mailto:murilo.melo94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilomelo-dev-backend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
