@@ -13,8 +13,8 @@
       <p>- 📚 Plus: Docker, Design Pattern, studying Kotlin</p>
     </td>
     <td style="border: none;" width="40%" align="center">
-      <a href="[https://github.com/MuriloMelo94](https://www.murilomelo.dev/)">
-        <img height="180em" src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=murilomelo94&layout=compact&langs_count=8&theme=tokyonight](https://www.murilomelo.dev/fotos/murilo.png)](https://www.murilomelo.dev/certificacoes/aws-cloud-practitioner.png)"/>
+      <a href="https://www.murilomelo.dev/">
+        <img height="180em" src="https://www.murilomelo.dev/certificacoes/aws-cloud-practitioner.png"/>
       </a>
     </td>
   </tr>
